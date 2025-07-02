@@ -1,7 +1,7 @@
 [project]
-name = "deep-research-sample"
+name = "deep-research-starter"
 version = "0.1.0"
-description = "Harvey sample project using the OpenAI Deep Research API"
+description = "Starter code for using the OpenAI Deep Research API, brought to you by Harvey"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
