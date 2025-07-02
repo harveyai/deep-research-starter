@@ -1,0 +1,10 @@
+[project]
+name = "deep-research-sample"
+version = "0.1.0"
+description = "Harvey sample project using the OpenAI Deep Research API"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "openai==1.93.0",
+    "streamlit==1.46.0",
+]
