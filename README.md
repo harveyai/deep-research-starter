@@ -16,6 +16,8 @@ Run the app
 uv run python -m streamlit run streamlit_app.py
 ```
 
+<img src="./assets/screenshot1.png" width="600" alt="Screenshot">
+
 ## API output samples
 
 If you would like to inspect the raw events from the streaming API, we have included samples from a complete run in both [json](events_jsonl.jsonl) and [pydantic](events_python_repr.txt) format.
