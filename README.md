@@ -20,4 +20,4 @@ uv run python -m streamlit run streamlit_app.py
 
 ## API output samples
 
-If you would like to inspect the raw events from the streaming API, we have included samples from a complete run in both [json](events_jsonl.jsonl) and [pydantic](events_python_repr.txt) format.
+If you would like to inspect the raw events from the streaming API, we have included samples from a complete run in both [json](output_samples/events_jsonl.jsonl) and [pydantic](output_samples/events_python_repr.txt) format.
